@@ -42,20 +42,6 @@ export default {
           alamat: 'Jl.Kebenaran No 10, Jawa Timur, Indonesia',
           umur : 34,
         },
-        {
-          id: 2,
-          nama: 'Dika',
-          ttl: '2020-01-03',
-          alamat: 'Jl.ManggaNo 10, Jawa Timur, Indonesia',
-          umur : 20,
-        },
-        {
-          id: 3,
-          nama: 'Agus',
-          ttl: '2020-01-05',
-          alamat: 'Jl.MataramNo 10, Jawa Timur, Indonesia',
-          umur : 29,
-       },
       ],
     }
   },
